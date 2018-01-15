@@ -1,0 +1,19 @@
+{
+  "name": "mixin-builder",
+  "version": "1.0.0",
+  "description": "Add common functionality onto a class.",
+  "main": "mixin-builder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesCoyle/mixin-builder.git"
+  },
+  "author": "James Coyle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JamesCoyle/mixin-builder/issues"
+  },
+  "homepage": "https://github.com/JamesCoyle/mixin-builder#readme"
+}
