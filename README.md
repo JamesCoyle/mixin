@@ -24,12 +24,12 @@ A mixin is a function which accepts a class and returns a class which extends th
 // standard function
 let mixin = (superclass) => class extends superclass
 {
-	// mixin methods here
+  // mixin methods here
 }
 
 // ES6 module
 export default (superclass) => class extends superclass
 {
-	// mixin methods here
+  // mixin methods here
 }
 ```
